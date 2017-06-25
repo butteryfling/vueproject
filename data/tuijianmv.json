@@ -1,0 +1,86 @@
+{
+    "code": 200,
+    "category": 3,
+    "result": [
+        {
+            "id": 5554119,
+            "type": 5,
+            "name": "I Promise",
+            "copywriter": "编辑推荐：radiohead未发行单曲MV终于发布，主角是一颗\"头\"..",
+            "picUrl": "http://p1.music.126.net/pXA_OEuKWvohl5K3sONK8g==/18895107323498765.jpg",
+            "canDislike": false,
+            "duration": 243000,
+            "playCount": 6664,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 99384,
+                    "name": "Radiohead"
+                }
+            ],
+            "artistName": "Radiohead",
+            "artistId": 99384,
+            "alg": "featured"
+        },
+        {
+            "id": 5553110,
+            "type": 5,
+            "name": "给自己的信",
+            "copywriter": "编辑推荐：听好妹妹乐队为你朗读这封特别的信",
+            "picUrl": "http://p1.music.126.net/efZaUvFu1zAxF0H_cCPkVQ==/18990764835112787.jpg",
+            "canDislike": false,
+            "duration": 248000,
+            "playCount": 100196,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 711683,
+                    "name": "好妹妹乐队"
+                }
+            ],
+            "artistName": "好妹妹乐队",
+            "artistId": 711683,
+            "alg": "featured"
+        },
+        {
+            "id": 5554062,
+            "type": 5,
+            "name": "내 이름은 中文版预告",
+            "copywriter": "最新热门MV推荐",
+            "picUrl": "http://p1.music.126.net/7IsBk9fDIedF4sUp6N0P8Q==/18825838092708581.jpg",
+            "canDislike": true,
+            "duration": 66000,
+            "playCount": 11968,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 127815,
+                    "name": "T-ara"
+                }
+            ],
+            "artistName": "T-ara",
+            "artistId": 127815,
+            "alg": "hot_server"
+        },
+        {
+            "id": 5554060,
+            "type": 5,
+            "name": "齐天",
+            "copywriter": "最新热门MV推荐",
+            "picUrl": "http://p1.music.126.net/lh9n2kJGVLSutYMD2zcrUA==/18611433325276561.jpg",
+            "canDislike": true,
+            "duration": 283000,
+            "playCount": 185156,
+            "subed": false,
+            "artists": [
+                {
+                    "id": 861777,
+                    "name": "华晨宇"
+                }
+            ],
+            "artistName": "华晨宇",
+            "artistId": 861777,
+            "alg": "hot_server"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "code": 200,
+    "name": "独家放送",
+    "result": [
+        {
+            "id": 1668402789,
+            "url": "375820458",
+            "picUrl": "http://p1.music.126.net/gnipGjdhkLNHOW-j54mp_A==/18928092672332007.jpg",
+            "sPicUrl": "http://p1.music.126.net/DavfGC3znHNMlP26486xUw==/18577348464841163.jpg",
+            "type": 24,
+            "copywriter": "三位小姐姐合唱《最初的梦想》，高考加油！",
+            "name": "三位小姐姐合唱《最初的梦想》，高考加油！",
+            "eventUserId": 375820458,
+            "width": 1920,
+            "eventType": 39,
+            "alg": "featured",
+            "height": 1080
+        },
+        {
+            "id": 1667215075,
+            "url": "72754867",
+            "picUrl": "http://p1.music.126.net/JQkDccy-JYW8zJJZJ2Rv6Q==/18535567022987573.jpg",
+            "sPicUrl": "http://p1.music.126.net/s-FlQJFUxKzkasEw5L29Vg==/18913799021171566.jpg",
+            "type": 24,
+            "copywriter": "考前减压，盘点2000年以来“高考周”Billboard单曲榜冠军！",
+            "name": "考前减压，盘点2000年以来“高考周”Billboard单曲榜冠军！",
+            "eventUserId": 72754867,
+            "width": 1280,
+            "eventType": 39,
+            "alg": "featured",
+            "height": 720
+        },
+        {
+            "id": 1669625825,
+            "url": "351530057",
+            "picUrl": "http://p1.music.126.net/xXTowIGrMixcdKeUwZy5Sw==/19047939439761578.jpg",
+            "sPicUrl": "http://p1.music.126.net/atHECJeK_PsdJ8s8Yz_ovw==/18915998044427608.jpg",
+            "type": 24,
+            "copywriter": "如果《爱乐之城》是一个像素游戏，你会如何选择结局？",
+            "name": "如果《爱乐之城》是一个像素游戏，你会如何选择结局？",
+            "eventUserId": 351530057,
+            "width": 1920,
+            "eventType": 39,
+            "alg": "featured",
+            "height": 1080
+        }
+    ]
+}

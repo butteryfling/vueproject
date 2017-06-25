@@ -1,0 +1,79 @@
+{
+    "hasTaste": false,
+    "code": 200,
+    "category": 0,
+    "result": [
+        {
+            "id": 735144581,
+            "type": 0,
+            "name": "华语邂逅 | “我在未来等你 我的心上人”",
+            "copywriter": "编辑推荐：不要惧怕孤单，只是那个TA，在未来等你",
+            "picUrl": "http://p1.music.126.net/RVmP3bSYbQdkhNQCM17Cqg==/109951162932331135.jpg",
+            "canDislike": false,
+            "playCount": 743159.2,
+            "trackCount": 30,
+            "highQuality": false,
+            "alg": "featured"
+        },
+        {
+            "id": 726703352,
+            "type": 0,
+            "name": "无前奏民谣，一腔诗意喂了狗",
+            "copywriter": "编辑推荐：诗意喂了狗，再也不回头",
+            "picUrl": "http://p1.music.126.net/ZXNkrwTXt4JiGglVqvGwEw==/18640020627640044.jpg",
+            "canDislike": false,
+            "playCount": 412006,
+            "trackCount": 45,
+            "highQuality": false,
+            "alg": "featured"
+        },
+        {
+            "id": 699544863,
+            "type": 0,
+            "name": "古风 | 描金绣凤 恋恋旧日好时光",
+            "copywriter": "热门歌单推荐",
+            "picUrl": "http://p1.music.126.net/9pXDWfWgOuqMN3lDF3RoeQ==/18614731860138618.jpg",
+            "canDislike": true,
+            "playCount": 1823991.4,
+            "trackCount": 40,
+            "highQuality": false,
+            "alg": "hot_server"
+        },
+        {
+            "id": 46917435,
+            "type": 0,
+            "name": "冲击耳膜！欧美说唱最强音",
+            "copywriter": "说唱给你提供满满正能量！",
+            "picUrl": "http://p1.music.126.net/i0kCLTaMFmMcnz1CckRmrQ==/2882919488477676.jpg",
+            "canDislike": true,
+            "playCount": 2500849.5,
+            "trackCount": 31,
+            "highQuality": true,
+            "alg": "hot_server"
+        },
+        {
+            "id": 586441050,
+            "type": 0,
+            "name": "「纯音/治愈」以音乐为治愈，令生活以静好",
+            "copywriter": "热门歌单推荐",
+            "picUrl": "http://p1.music.126.net/eqaMA3MAe-Po9Fd5ySpGKA==/109951162852245559.jpg",
+            "canDislike": true,
+            "playCount": 1312224.1,
+            "trackCount": 32,
+            "highQuality": false,
+            "alg": "hot_server"
+        },
+        {
+            "id": 37432514,
+            "type": 0,
+            "name": "那些只听前奏就中毒的英文歌",
+            "copywriter": "听着听着就陶醉了",
+            "picUrl": "http://p1.music.126.net/mQy3lRj6YJ0TW3fM9v85YA==/6643249256145165.jpg",
+            "canDislike": true,
+            "playCount": 47662700,
+            "trackCount": 17,
+            "highQuality": true,
+            "alg": "hot_server"
+        }
+    ]
+}
